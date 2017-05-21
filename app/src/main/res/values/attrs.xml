@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ZProgressBar">
+        <!--背景颜色-->
+        <attr name="zpb_backgroundColor" format="color"/>
+        <!--进度条颜色-->
+        <attr name="zpb_progressColor" format="color"/>
+        <!--背景弧度-->
+        <attr name="zpb_radius" format="dimension"/>
+        <!--动画时长-->
+        <attr name="zpb_duration" format="integer"/>
+    </declare-styleable>
+</resources>
